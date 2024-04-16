@@ -1,0 +1,23 @@
+.rightpanel {
+    right: 5px;
+    top: 50px;
+    bottom: 50px;
+}
+
+.leftpanel {
+    left: 5px;
+    top: 50px;
+    bottom: 50px;
+}
+.mainpanel {
+    left: 60px;
+    right: 60px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
