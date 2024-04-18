@@ -1,0 +1,19 @@
+/* Four style definitions  */
+.red {
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.white { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+body {
+    background-color: #bdb0c7da;
+    font-size: large;
+}
+
+.bold {
+    font-size: x-large;
+}
